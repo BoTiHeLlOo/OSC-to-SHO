@@ -1,0 +1,22 @@
+USERS MANUAL
+
+Steps:
+
+1. Select the midtones (Select>Color_range>Midtones) and do some curve adjustments on the green and blue channels to make the selected area pop
+2. Select>Select_and_Mask>Feather (to your liking, around 30-110)
+2. Run the Action set
+3. Selective Color Adjustments to get the right colors
+4. Enjoy your SHO image :)
+
+
+Some Tips:
+ - Do some stretching before running the action, so you can see the results better
+ - Use starless images
+ - Make sure your image is already in 16 Bits/Channel
+ - Works better on good SNR images, because adjusting the midtones might add some noise to the selected area and make it look grainy
+ - Make sure the image is gradient free to get better results
+ - Works with regular DSLR but a modified one or an astro dedicated camera with a dual-narrowband filter will increase the quality
+
+
+Made by:
+Nagy Botond
